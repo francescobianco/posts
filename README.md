@@ -6,5 +6,5 @@ This repository collect all my web posts
 
 - Automatic deployment on automation platform -
   [(read)](https://nocodefounders.com/post/automatic-deployment-on-automation-platform)
-  [(review)](https://www.writeurl.com/text/7euq3tcmfy386hy06oer/gicxjrlnfynr4c32ga7c/do4cvlnwboriwsl2jdmm)
+  [(review)](https://gist.github.com/francescobianco/8025a64e262e6136cf7e50aa38dd7328)
 
